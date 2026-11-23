@@ -1,0 +1,5 @@
+# Passwords and keys for the ESP32 (copy secrets.example.h to secrets.h)
+secrets.h
+
+# Flutter app settings (Supabase URL/key); copy app/env.example.json
+env.json
